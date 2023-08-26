@@ -1,0 +1,14 @@
+.t-shirt{
+    background-color: rgb(241, 237, 231);
+    margin: 30px 20px;
+    border-radius: 15px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+.t-shirt img{
+   
+    height: 300px;
+    border-radius: 15px;
+}
