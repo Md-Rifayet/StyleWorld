@@ -31,8 +31,9 @@ const handelRemoveCart = (id) =>{
   return (
     <div className='home-container'>
     
-    <div className='tshirts-container'>
+    <div className='tshirts-container'> 
     {
+      
       tshirts.map(tshirt => <TShirtData
        key={tshirt._id}
        tshirt={tshirt}
